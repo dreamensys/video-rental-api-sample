@@ -1,0 +1,33 @@
+﻿@model IEnumerable<RentalVideo.Models.MovieModelView>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Movies List</h2>
+@Html.ActionLink("Add Movie","Create")
+<div class="table-responsive">
+    <table class="table table-striped">
+        <tr>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Genre</td>
+            <td></td>
+            <td></td>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.Description</td>
+                <td>@item.Genre</td>
+                <td>@Html.ActionLink("Edit", "Update", new { movieId = item.Id })</td>
+                <td>@Html.ActionLink("Delete", "Remove", new { movieId = item.Id })</td>
+            </tr>
+        }
+
+    </table>
+    </div> 
+
+
+
+

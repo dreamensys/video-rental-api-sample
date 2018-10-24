@@ -1,0 +1,10 @@
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\Languages\bin\Debug\Languages.dll
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\Languages\bin\Debug\Languages.pdb
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\Languages\bin\Debug\en\Languages.resources.dll
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\Languages\obj\Debug\Languages.Resource.resources
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\Languages\obj\Debug\Languages.Resource.en.resources
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\Languages\obj\Debug\Languages.csproj.GenerateResource.Cache
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\Languages\obj\Debug\en\Languages.resources.dll
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\Languages\obj\Debug\Languages.dll
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\Languages\obj\Debug\Languages.pdb
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\Languages\obj\Debug\Languages.csprojResolveAssemblyReference.cache

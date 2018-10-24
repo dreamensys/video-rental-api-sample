@@ -1,0 +1,12 @@
+﻿@model RentalVideo.Models.MovieModelView
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create</h2>
+@Html.Partial("~/Views/Movie/_Form.cshtml", Model)
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

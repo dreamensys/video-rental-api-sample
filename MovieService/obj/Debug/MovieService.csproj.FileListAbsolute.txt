@@ -1,0 +1,8 @@
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\MovieService\bin\MovieService.dll.config
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\MovieService\bin\MovieService.dll
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\MovieService\bin\MovieService.pdb
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\MovieService\obj\Debug\MovieService.csprojResolveAssemblyReference.cache
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\MovieService\obj\Debug\MovieService.dll
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\MovieService\obj\Debug\MovieService.pdb
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\MovieService\bin\Newtonsoft.Json.dll
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\MovieService\bin\Newtonsoft.Json.xml

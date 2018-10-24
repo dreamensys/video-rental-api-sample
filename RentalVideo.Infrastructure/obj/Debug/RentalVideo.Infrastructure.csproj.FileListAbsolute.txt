@@ -1,0 +1,13 @@
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.Infrastructure\bin\Debug\RentalVideo.Infrastructure.dll.config
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.Infrastructure\bin\Debug\RentalVideo.Infrastructure.dll
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.Infrastructure\bin\Debug\RentalVideo.Infrastructure.pdb
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.Infrastructure\bin\Debug\RentalVideo.ApplicationCore.dll
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.Infrastructure\bin\Debug\RentalVideo.ApplicationCore.pdb
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.Infrastructure\obj\Debug\RentalVideo.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.Infrastructure\obj\Debug\RentalVideo.Infrastructure.dll
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.Infrastructure\obj\Debug\RentalVideo.Infrastructure.pdb
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.Infrastructure\bin\Debug\App.config

@@ -1,0 +1,47 @@
+﻿ 
+@model RentalVideo.Models.UserModelView
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Register</title>
+</head> 
+<body>
+    <div class=""></div>
+    @using (Html.BeginForm())
+    {
+        @Html.LabelFor(m => m.Name)
+
+        <div>
+            @Html.EditorFor(m => m.Name, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger"})
+        </div>
+
+        @Html.LabelFor(m => m.Email)
+        <div>
+
+            @Html.EditorFor(m => m.Email, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+        </div>
+
+        @Html.LabelFor(m => m.Password)
+
+        <div>
+            @Html.EditorFor(m => m.Password , new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+        </div>
+
+        @Html.LabelFor(m => m.ConfirmPassword)
+
+        <div>
+            @Html.EditorFor(m => m.ConfirmPassword , new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(m => m.ConfirmPassword, "", new { @class = "text-danger" })
+        </div>
+
+        <input type="submit" value="Register" class="btn btn-default"/>
+    }
+</body>
+</html>

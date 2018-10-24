@@ -1,0 +1,5 @@
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.ApplicationCore\bin\Debug\RentalVideo.ApplicationCore.dll
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.ApplicationCore\bin\Debug\RentalVideo.ApplicationCore.pdb
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.ApplicationCore\obj\Debug\RentalVideo.ApplicationCore.dll
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.ApplicationCore\obj\Debug\RentalVideo.ApplicationCore.pdb
+C:\Users\angel-pc\Documents\Visual Studio 2017\Projects\RentalVideo\RentalVideo.ApplicationCore\obj\Debug\RentalVideo.ApplicationCore.csprojResolveAssemblyReference.cache
