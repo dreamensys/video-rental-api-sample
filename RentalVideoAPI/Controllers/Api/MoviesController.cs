@@ -1,8 +1,10 @@
-﻿using RentalVideo.ApplicationCore.Entities;
+﻿using RentalVideo.ApplicationCore.DTO_s;
+using RentalVideo.ApplicationCore.Entities;
 using RentalVideo.Infrastructure.Data;
 using System.Collections.Generic;
 using System.Net;
 using System.Web.Http;
+using System.Linq;
 
 namespace RentalVideoAPI.Controllers.Api
 {
@@ -11,10 +13,17 @@ namespace RentalVideoAPI.Controllers.Api
     {
         private MoviesRepository moviesRepo = new MoviesRepository();
         // GET api/movies
-        public IEnumerable<Movie> GetAllMovies()
+        public IEnumerable<MovieDTO> GetAllMovies()
         {
             var list = moviesRepo.GetAllMovies();
-            return list;
+            return list.Select(s =>  new MovieDTO()
+            {
+                Id = s.Id,
+                Title = s.Title,
+                Description = s.Description,
+                Duration = s.Duration,
+                Year = s.Year
+            });
         }
 
         // GET /api/movies/1
