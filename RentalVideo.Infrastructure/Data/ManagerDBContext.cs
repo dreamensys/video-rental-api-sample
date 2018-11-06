@@ -1,4 +1,5 @@
 ﻿using RentalVideo.ApplicationCore.Entities;
+using RentalVideo.Infrastructure.Data.Mappers;
 using System.Data.Entity;
 
 namespace RentalVideo.Infrastructure.Data
@@ -14,6 +15,16 @@ namespace RentalVideo.Infrastructure.Data
         public DbSet<Producer> Producers { get; set; }
 
         public DbSet<Customer> Customers { get; set; }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.Configurations.Add(new MovieMapper());
+            modelBuilder.Configurations.Add(new CustomerMapper());
+            modelBuilder.Configurations.Add(new ProducerMapper());
+            
+        }
+       
+        
 
 
     }

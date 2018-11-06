@@ -48,6 +48,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data\ManagerDBContext.cs" />
+    <Compile Include="Data\Mappers\ProducerMapper.cs" />
+    <Compile Include="Data\Mappers\CustomerMapper.cs" />
+    <Compile Include="Data\Mappers\MovieMapper.cs" />
     <Compile Include="Data\MoviesRepository.cs" />
     <Compile Include="Data\ProducersRepository.cs" />
     <Compile Include="Data\Repository.cs" />
